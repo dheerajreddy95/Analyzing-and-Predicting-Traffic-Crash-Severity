@@ -44,5 +44,39 @@ The dataset includes detailed information about crashes, such as:
 ### **Installation Steps**  
 1. Clone this repository:  
    ```sh
-   git clone https://github.com/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/Analyzing-and-Predicting-Traffic-Crash-Severity.git
+   cd Analyzing-and-Predicting-Traffic-Crash-Severity
+2. Install dependencies:
+   ```sh
+   pip install pyspark pandas matplotlib seaborn
+3. Run the preprocessing and model training scripts:
+   ```sh
+   python main.py
+
+### **Key Insights**
+1. PySpark significantly reduces training time while maintaining high model accuracy.
+2. Feature engineering & handling data imbalance improved results (focusing on DAMAGE column).
+3. DAG Visualizations provide insights into distributed computation execution in Spark.
+
+### **Future Enhancements**
+1. Integrating real-time crash data for live prediction models.
+2. Implementing hyperparameter tuning for improved model performance.
+3. Expanding features with weather and traffic conditions for deeper analysis.
+   
+### **References**
+1. Traffic Crash Dataset - Data.gov
+2. Apache Spark Documentation
+
+
+---
+
+### **📌 Why This README is Useful?**
+- ✅ **Clear Overview** of the project  
+- ✅ **Step-by-Step Installation Guide**  
+- ✅ **Model Performance Table for Easy Comparison**  
+- ✅ **Future Enhancements** for contributors  
+- ✅ **Contact Info & References**  
+
+Let me know if you need modifications or additional sections! 🚀😊
+
+
