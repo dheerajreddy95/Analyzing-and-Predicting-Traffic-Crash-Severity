@@ -74,9 +74,6 @@ The dataset includes detailed information about crashes, such as:
 - ✅ **Clear Overview** of the project  
 - ✅ **Step-by-Step Installation Guide**  
 - ✅ **Model Performance Table for Easy Comparison**  
-- ✅ **Future Enhancements** for contributors  
-- ✅ **Contact Info & References**  
-
-Let me know if you need modifications or additional sections! 🚀😊
+- ✅ **References**  
 
 
